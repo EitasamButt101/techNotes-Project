@@ -10,3 +10,4 @@ when open this link i got 2 request 1 from that route and other for the static f
 so we have reqlog in our logs folder
 we have date time and specific id of the request
 # tec
+# tr
